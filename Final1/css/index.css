@@ -1,0 +1,297 @@
+body{
+ margin:0 auto; 
+ font-size:12px; 
+ font-family:宋体; 
+}
+ul{
+	list-style: none;
+	line-height: 22px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: #f00;
+}
+#ibody{
+	width: 1900px;
+	margin:0 auto;
+
+}
+.banner{
+	margin: 0 320px;
+}
+#nav{
+	background-color: #A80000;
+	height: 35px;
+	padding-bottom: 3px;
+}
+.nav_content{
+	margin-left: 465px;
+	font-size: 14px;
+}
+.nav_in{
+	float: left;
+}
+.daohang{
+	display: block;
+	padding: 10px 16px;
+}
+.daohang:link{
+	color: white;
+}
+.daohang:hover{
+	color: white;
+	background-color:#FFCC00;
+
+}
+#pic{
+	padding-left: 465px;
+
+}
+#newsbody{
+	width: 975px;
+	margin-left: 465px;
+	float: left;
+
+}
+#log_in{
+	width: 354px;
+	height: 260px;
+	background: url(../honor/log.png) top center no-repeat;
+	float: left;
+}
+#log{
+	margin-top: 120px;
+	text-align: center;
+}
+#news{
+	width: 328px;
+	height: 260px;
+	float: left;
+	margin-left: 10px;
+}
+#xinwentupian{
+	width: 328px;
+	border-bottom: 1px solid gray;
+	border-bottom: 1px solid;
+}
+#news_list{
+	width: 328px;
+}
+.list1{
+	font-size: 13px;
+}
+.date{
+	float: right;
+	color: gray;
+}
+.list1 a:link{
+	color:#707070;
+}
+.list1 a:hover{
+	text-decoration: underline;
+}
+#inform{
+	width: 266px;
+	height: 260px;
+	float: left;
+	margin-left: 10px;
+}
+.date2{
+	color: orange;
+}
+#video{
+	height: 150px;
+	width: 975px;
+	float: left;
+	margin-left: 465px;
+	padding: 15px;
+}
+.cover_pic{
+	float: left;
+	margin-left: 10px;
+	text-align: center;
+}
+.video_text{
+	color: green;
+}
+#hot{
+	width: 975px;
+	height: 300px;
+	float: left;
+	margin-left: 465px;
+
+}
+.hot_left{
+	width: 354px;
+	height: 300px;
+	float: left;
+
+}
+.list3{
+	color: black;
+	list-style-image: url(../honor/point.png);
+}
+.list3 a:link{
+	color: #707070;
+	display: inline;
+}
+#hot_right{
+	height: 300px;
+	width: 260px;
+	float: left;
+	
+}
+#bottom{
+	height: 60px;
+	width: 975px;
+	float: left;
+	margin-left: 465px;
+}
+#first{
+	float: left;
+}
+.eight{
+	float: left;
+	margin: 8px;
+	
+}
+#foot{
+	width: 975px;
+	height: 30px;
+	float: left;
+	margin-left: 465px;
+	background-color: #A80000;
+}
+#footer{
+	width: 975px;
+	height: 50px;
+	float: left;
+	margin-left: 465px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bread{
+	width: 975px;
+	height: 30px;
+	float: left;
+	margin-left: 465px;
+	border-bottom: 1px solid;
+	margin-bottom: 10px;
+}
+#kuaixun{
+	width: 240px;
+	height: 640px;
+	margin-left: 465px;
+	border: 1px solid gray;
+	float: left;
+}
+#kuaixun_top{
+	width: 240px;
+	height:170px;
+	border: 1px solid gray;
+
+}
+
+.four{
+	width: 237px;
+	height: 25px;
+	border: 1px solid black;
+	background-color: #E0E0E0;
+}
+.four a{
+	color: black;
+	display: block;
+	padding: 10px;
+}
+.four a:hover{
+	background-color: yellow;
+}
+.list6{
+	list-style-image: url(../honor/pot.png);
+	font-size: 13px;
+}
+.list6 a:link{
+	color: black;
+}
+#liebiao{
+	width: 710px;
+	height: 650px;
+	border: 1px solid gray;
+	float: left;
+	margin-left: 20px;
+}
+.list7{
+	line-height: 30px;
+	font-size: 16px;
+	border-bottom: dotted;
+	list-style-image: url(../honor/red.png);
+}
+.list7 a:link{
+	color: black;
+}
+#count{
+	height: 50px;
+	width: 650px;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+#count a{
+	color: black;
+	border: 1px solid;
+}
+#meeting{
+	width: 710px;
+	height: 950px;
+	border: 1px solid gray;
+	float: left;
+	margin-left: 20px;
+}
+#comment{
+	height: 200px;
+	width: 240px;
+	border-top: 1px solid gray;
+}
+#pinglun{
+	width: 235px;
+	height: 100px;
+}
+.con{
+	text-indent: 2em;
+	font-size: 20px;
+	line-height: 20px;
+}
+.op{
+	font-size: 14px;
+}
+.op a{
+	color: black;
+}
